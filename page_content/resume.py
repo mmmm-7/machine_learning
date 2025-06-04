@@ -2,6 +2,7 @@ import streamlit as st
 import base64
 import os
 
+def resume_page():
     st.title("Jing Ma")
 
     st.header("Contact Information")
