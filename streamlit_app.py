@@ -10,6 +10,7 @@ st.set_page_config(page_title="personalsite", layout="wide")
 from page_content.home import home_page
 from page_content.experience import experience_page
 from page_content.education import education_page
+from page_content.resume import resume_page
 from page_content.contact import contact_page
 
 # Import components
@@ -44,6 +45,7 @@ app = MultiApp()
 # Add pages to the app
 app.add_app("Home Page", home_page)
 app.add_app("Education Page", education_page)
+app.add_app("Resume Page", resume_page)
 app.add_app("Experience Page", experience_page)
 app.add_app("Contact Page", contact_page)
 
