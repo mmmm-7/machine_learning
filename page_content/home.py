@@ -16,7 +16,7 @@ def home_page(): # add a function to display the home page in streamlit app
     )
 
     # add a photo to the right column
-    image_path = os.path.join("static", "images", "image.png")
+    image_path = os.path.join("static", "images", "image.jpg")
     if os.path.exists(image_path):
         image = Image.open(image_path)
         right_col.image(image, width=200)
