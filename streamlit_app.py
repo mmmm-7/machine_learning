@@ -10,7 +10,6 @@ st.set_page_config(page_title="personalsite", layout="wide")
 from page_content.home import home_page
 from page_content.experience import experience_page
 from page_content.education import education_page
-from page_content.resume import resume_page
 from page_content.contact import contact_page
 
 # Import components
