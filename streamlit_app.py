@@ -45,7 +45,6 @@ app = MultiApp()
 app.add_app("Home Page", home_page)
 app.add_app("Education Page", education_page)
 app.add_app("Experience Page", experience_page)
-app.add_app("Resume Page", resume_page)
 app.add_app("Contact Page", contact_page)
 
 # Run the app
