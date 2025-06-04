@@ -39,10 +39,8 @@ def home_page(): # add a function to display the home page in streamlit app
         """
         ### Skills
         - Programming Languages: Python, R
-        - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
-        - Machine Learning: Scikit-learn, TensorFlow, Keras
-        - Database: SQL, MongoDB
-        - Data Visualization: Tableau, Power BI
+        - Video Editing: Adobe Premiere, Vegas
+        - Photo Editing: Photoshop
         - Statistical Analysis: Hypothesis Testing, Regression Analysis
         - Communication: Presentation Skills, Technical Writing
         """
