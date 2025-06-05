@@ -7,7 +7,7 @@ def contact_page():
     Feel free to reach out to me through any of the following channels:
     
     ### Direct Contact
-    - **Email**: [1155216003@link.edu.hk](mailto:1155216003@link.edu.hk)
+    - **Email**: [1155216003@link.cuhk.edu.hk](mailto:1155216003@link.cuhk.edu.hk)
     - **Phone**: +(852) 5644 8759
     """)
     
